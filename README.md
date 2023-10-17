@@ -4,7 +4,7 @@ VGG16圖片分類器<br>
 1.採用cifar10數據集進行訓練。<br>
 2.分類10種圖片。
 ## 成效
-圖像分類準確率已達到83%。
+圖像分類準確率已達到83%。<br>
 ![image](https://github.com/tohousanae/VGG16-CNN/assets/122202405/3e4009c2-e366-4ce2-813e-1d90dffce072)
 
 ## 遇到的困難
